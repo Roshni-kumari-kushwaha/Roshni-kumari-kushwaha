@@ -60,7 +60,7 @@
 - Built using **HTML, CSS, and JavaScript**  
 - Fully responsive and clean UI  
 
-🔗Portfolio: https://github.com/Roshni-kumari-kushwaha/
+🔗Portfolio: https://github.com/Roshni-kumari-kushwaha/PORTFOLIO
 
 ---
 
